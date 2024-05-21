@@ -1,4 +1,4 @@
-# -Cat-Dog-Classification-Using-Docker
+# Cat-Dog-Classification-Using-Docker
 This project demonstrates a simple web application that predicts whether an uploaded image contains a cat or not. It uses a pretrained machine learning model (h5 format). It is deployed using Flask and containerized using docker.
 ## Docker Deployment
 
